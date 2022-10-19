@@ -1,0 +1,6 @@
+classes= 7
+train  = /home/milena/Documents/darknet/rolte/train.txt
+valid  = /home/milena/Documents/darknet/rolte/test.txt
+names = /home/milena/Documents/darknet/rolte/cfg/voc.names
+backup = /home/milena/Documents/darknet/rolte/backup/
+
